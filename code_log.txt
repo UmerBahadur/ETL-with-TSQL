@@ -1,0 +1,3 @@
+2024-07-07 22:58:57.830488: Data is extracted successfully
+2024-07-07 22:58:57.830488: Data is transformed successfully
+2024-07-07 22:58:57.851765: Data is loaded successfully to SQL
